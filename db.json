@@ -1,0 +1,43 @@
+{
+    "admin": [
+        {
+            "id": 1,
+            "nama": "Admin",
+            "email": "admin@mail.com",
+            "password": "12345"
+        }
+    ],
+    "room": [
+        {
+            "id": 1,
+            "nama": "Ruangan 1"
+        },
+        {
+            "id": 2,
+            "nama": "Ruangan 2"
+        }
+    ],
+    "dataPinjam": [
+        {
+            "idPinjam": 1,
+            "nama": "John Doe",
+            "telepon": "+62888000999",
+            "status": 0,
+            "room": "2"
+        },
+        {
+            "idPinjam": 2,
+            "nama": "John Doe 2",
+            "telepon": "+62888000999",
+            "status": 1,
+            "room": "1"
+        },
+        {
+            "idPinjam": 3,
+            "nama": "John Doe 3",
+            "telepon": "+62888000999",
+            "status": 2,
+            "room": "1"
+        }
+    ]
+}
